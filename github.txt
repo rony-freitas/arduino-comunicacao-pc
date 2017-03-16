@@ -1,0 +1,5 @@
+git clone https://github.com/rony-freitas/arduino-comunicacao-pc.git
+cd arduino-comunicacao-pc
+git add (* or -A)
+git commit -m "Mensagem commit"
+git push -u origin master
